@@ -1,0 +1,236 @@
+[INFO ] 2024-09-25 18:05:09.904 [main] MyTestRunner - Suite started at Wed Sep 25 18:05:09 IST 2024
+[INFO ] 2024-09-25 18:05:09.908 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 18:05:10.841 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 18:05:10.841 [main] Hooks - Test is started with https://casino.boylesports.com/ URL
+[INFO ] 2024-09-25 18:05:22.327 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 18:05:22.333 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 18:06:02.223 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 18:06:02.245 [main] Hooks - Test has ended closing browser: Chrome
+[INFO ] 2024-09-25 18:06:02.585 [main] MyTestRunner -  suite finished at Wed Sep 25 18:06:02 IST 2024
+[INFO ] 2024-09-25 18:06:02.740 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 18:06:02.740 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/1x2.html
+[INFO ] 2024-09-25 18:11:23.120 [main] MyTestRunner - Suite started at Wed Sep 25 18:11:22 IST 2024
+[INFO ] 2024-09-25 18:11:23.123 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 18:11:23.860 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 18:11:23.861 [main] Hooks - Test is started with https://casino.boylesports.com/ URL
+[INFO ] 2024-09-25 18:11:26.128 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 18:11:26.133 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 18:16:26.932 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727268386186.png
+[INFO ] 2024-09-25 18:16:29.257 [main] MyTestRunner -  suite finished at Wed Sep 25 18:16:29 IST 2024
+[INFO ] 2024-09-25 18:16:29.443 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 18:16:29.443 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/1x2.html
+[INFO ] 2024-09-25 18:38:08.525 [main] MyTestRunner - Suite started at Wed Sep 25 18:38:08 IST 2024
+[INFO ] 2024-09-25 18:38:08.531 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 18:38:09.848 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 18:38:09.849 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 18:38:14.032 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 18:38:14.041 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 18:38:58.290 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 18:38:58.315 [main] Hooks - Test has ended closing browser: Chrome
+[INFO ] 2024-09-25 18:38:58.509 [main] MyTestRunner -  suite finished at Wed Sep 25 18:38:58 IST 2024
+[INFO ] 2024-09-25 18:38:58.983 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 18:38:58.984 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:19:51.450 [main] MyTestRunner - Suite started at Wed Sep 25 20:19:50 IST 2024
+[INFO ] 2024-09-25 20:19:51.455 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:19:53.100 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:19:53.101 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:20:00.211 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:20:00.227 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:20:57.392 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:21:18.196 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727275877619.png
+[INFO ] 2024-09-25 20:21:20.869 [main] MyTestRunner -  suite finished at Wed Sep 25 20:21:20 IST 2024
+[INFO ] 2024-09-25 20:21:21.387 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:21:21.388 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:23:43.883 [main] MyTestRunner - Suite started at Wed Sep 25 20:23:43 IST 2024
+[INFO ] 2024-09-25 20:23:43.891 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:23:45.706 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:23:45.712 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:23:50.378 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:23:50.391 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:24:26.011 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:24:26.124 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:24:26.923 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:24:27.013 [main] KeywordUtil - Input Text: null - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:24:28.275 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727276067097.png
+[INFO ] 2024-09-25 20:24:30.859 [main] MyTestRunner -  suite finished at Wed Sep 25 20:24:30 IST 2024
+[INFO ] 2024-09-25 20:24:31.245 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:24:31.246 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:27:00.905 [main] MyTestRunner - Suite started at Wed Sep 25 20:27:00 IST 2024
+[INFO ] 2024-09-25 20:27:00.909 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:27:01.885 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:27:01.886 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:27:04.159 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:27:04.165 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:27:18.764 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:27:18.859 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:27:19.620 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:27:19.770 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:28:12.605 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727276292402.png
+[INFO ] 2024-09-25 20:28:14.907 [main] MyTestRunner -  suite finished at Wed Sep 25 20:28:14 IST 2024
+[INFO ] 2024-09-25 20:28:15.303 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:28:15.304 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:28:52.397 [main] MyTestRunner - Suite started at Wed Sep 25 20:28:51 IST 2024
+[INFO ] 2024-09-25 20:28:52.410 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:28:54.257 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:28:54.258 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:28:57.822 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:28:57.848 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:29:08.501 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:29:08.593 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:29:09.748 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:29:10.011 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:29:21.649 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 20:29:40.078 [main] Hooks - Test has ended closing browser: Chrome
+[INFO ] 2024-09-25 20:29:40.157 [main] MyTestRunner -  suite finished at Wed Sep 25 20:29:40 IST 2024
+[INFO ] 2024-09-25 20:29:40.457 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:29:40.458 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:39:14.324 [main] MyTestRunner - Suite started at Wed Sep 25 20:39:13 IST 2024
+[INFO ] 2024-09-25 20:39:14.329 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:39:15.871 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:39:15.872 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:39:19.141 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:39:19.152 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:39:31.453 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:39:31.579 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:39:32.690 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:39:32.939 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:39:39.710 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 20:40:36.066 [main] Hooks - Test has ended closing browser: Chrome
+[INFO ] 2024-09-25 20:40:36.434 [main] MyTestRunner -  suite finished at Wed Sep 25 20:40:36 IST 2024
+[INFO ] 2024-09-25 20:40:37.386 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:40:37.387 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:42:23.546 [main] MyTestRunner - Suite started at Wed Sep 25 20:42:22 IST 2024
+[INFO ] 2024-09-25 20:42:23.552 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:42:24.971 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:42:24.972 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:42:27.876 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:42:27.892 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:42:39.487 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:42:39.735 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:42:40.845 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:42:41.138 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:42:48.093 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 20:43:36.628 [main] Hooks - Test has ended closing browser: Chrome
+[INFO ] 2024-09-25 20:43:37.139 [main] MyTestRunner -  suite finished at Wed Sep 25 20:43:37 IST 2024
+[INFO ] 2024-09-25 20:43:37.965 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:43:37.965 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:55:46.297 [main] MyTestRunner - Suite started at Wed Sep 25 20:55:45 IST 2024
+[INFO ] 2024-09-25 20:55:46.306 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:55:49.192 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:55:49.193 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:55:54.191 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:55:54.208 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:56:44.744 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:56:45.344 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 20:56:46.378 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:56:47.826 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 20:56:55.922 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 20:57:55.989 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727278074203.png
+[INFO ] 2024-09-25 20:57:59.938 [main] MyTestRunner -  suite finished at Wed Sep 25 20:57:59 IST 2024
+[INFO ] 2024-09-25 20:58:01.983 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 20:58:01.986 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 20:59:44.411 [main] MyTestRunner - Suite started at Wed Sep 25 20:59:43 IST 2024
+[INFO ] 2024-09-25 20:59:44.419 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 20:59:46.179 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 20:59:46.180 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 20:59:49.041 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 20:59:49.052 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 20:59:59.704 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 20:59:59.887 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:00:00.801 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:00:01.442 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:00:08.173 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:01:04.315 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727278263222.png
+[INFO ] 2024-09-25 21:01:07.350 [main] MyTestRunner -  suite finished at Wed Sep 25 21:01:07 IST 2024
+[INFO ] 2024-09-25 21:01:09.020 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:01:09.021 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:03:45.844 [main] MyTestRunner - Suite started at Wed Sep 25 21:03:44 IST 2024
+[INFO ] 2024-09-25 21:03:45.858 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:03:48.068 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:03:48.069 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:03:52.036 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:03:52.052 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:04:05.083 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:04:05.227 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:04:06.102 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:04:06.238 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:04:13.396 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:05:11.620 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727278510269.png
+[INFO ] 2024-09-25 21:05:14.471 [main] MyTestRunner -  suite finished at Wed Sep 25 21:05:14 IST 2024
+[INFO ] 2024-09-25 21:05:15.159 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:05:15.163 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:10:34.125 [main] MyTestRunner - Suite started at Wed Sep 25 21:10:33 IST 2024
+[INFO ] 2024-09-25 21:10:34.128 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:10:35.004 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:10:35.004 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:10:37.881 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:10:37.891 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:10:55.027 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:10:55.140 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:10:55.917 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:10:56.020 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:11:02.541 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:12:04.557 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727278923586.png
+[INFO ] 2024-09-25 21:12:07.465 [main] MyTestRunner -  suite finished at Wed Sep 25 21:12:07 IST 2024
+[INFO ] 2024-09-25 21:12:07.951 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:12:07.951 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:13:40.884 [main] MyTestRunner - Suite started at Wed Sep 25 21:13:40 IST 2024
+[INFO ] 2024-09-25 21:13:40.890 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:13:42.048 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:13:42.048 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:13:44.394 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:13:44.402 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:13:56.094 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:13:56.213 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:13:57.043 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:13:57.233 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:14:03.881 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:14:59.634 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727279098940.png
+[INFO ] 2024-09-25 21:15:02.547 [main] MyTestRunner -  suite finished at Wed Sep 25 21:15:02 IST 2024
+[INFO ] 2024-09-25 21:15:03.007 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:15:03.007 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:15:52.355 [main] MyTestRunner - Suite started at Wed Sep 25 21:15:51 IST 2024
+[INFO ] 2024-09-25 21:15:52.362 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:15:53.866 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:15:53.867 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:15:56.701 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:15:56.713 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:16:30.673 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:16:30.798 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:16:31.606 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:16:31.756 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:16:38.943 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:17:41.291 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727279259945.png
+[INFO ] 2024-09-25 21:17:44.393 [main] MyTestRunner -  suite finished at Wed Sep 25 21:17:44 IST 2024
+[INFO ] 2024-09-25 21:17:45.355 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:17:45.357 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:18:50.573 [main] MyTestRunner - Suite started at Wed Sep 25 21:18:49 IST 2024
+[INFO ] 2024-09-25 21:18:50.581 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:18:52.204 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:18:52.205 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:18:55.025 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:18:55.040 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:19:05.754 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:19:06.040 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:19:06.856 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:19:06.997 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:19:13.849 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:20:05.094 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727279404164.png
+[INFO ] 2024-09-25 21:20:07.950 [main] MyTestRunner -  suite finished at Wed Sep 25 21:20:07 IST 2024
+[INFO ] 2024-09-25 21:20:08.469 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/Desktop/GameAutomation\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:20:08.470 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/Desktop/GameAutomation/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
+[INFO ] 2024-09-25 21:55:05.424 [main] MyTestRunner - Suite started at Wed Sep 25 21:55:04 IST 2024
+[INFO ] 2024-09-25 21:55:05.433 [main] MyTestRunner - Suite Execution For Web application on environment: Local
+[INFO ] 2024-09-25 21:55:06.769 [main] Hooks - Test Started: Playing the Mega Fire game and place a bet for Valid Login Credentials
+[INFO ] 2024-09-25 21:55:06.770 [main] Hooks - Test is started with https://www.1x2network.com/games/ URL
+[INFO ] 2024-09-25 21:55:09.645 [main] DriverUtil - Chrome browser Launched and Maximized.
+[INFO ] 2024-09-25 21:55:09.656 [main] KeywordUtil - Navigate to: https://www.1x2network.com/games/
+[INFO ] 2024-09-25 21:55:27.466 [main] KeywordUtil - GAMES – 1X2 Network
+[INFO ] 2024-09-25 21:55:27.811 [main] KeywordUtil - Click: By.xpath: //span[@class='icon-salient-search']
+[INFO ] 2024-09-25 21:55:28.427 [main] KeywordUtil - Click: By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:55:28.773 [main] KeywordUtil - Input Text: Gods of Olympus IV - By.xpath: //input[@placeholder='Search all games']
+[INFO ] 2024-09-25 21:55:35.627 [main] KeywordUtil - Click: By.xpath: (//a[@aria-label='Gods of Olympus IV'])[1]
+[INFO ] 2024-09-25 21:56:33.136 [main] HTMLReportUtil - ExecutionReports/FailedScreenshots\ScreenShot_1727281592153.png
+[INFO ] 2024-09-25 21:56:36.282 [main] MyTestRunner -  suite finished at Wed Sep 25 21:56:36 IST 2024
+[INFO ] 2024-09-25 21:56:37.357 [main] KeywordUtil - cucumber path is /Users/ayushprenzaa/1x2NetworkGame\target\cucumber-html-report.html
+[INFO ] 2024-09-25 21:56:37.359 [main] KeywordUtil - Extent Report File path is  /Users/ayushprenzaa/1x2NetworkGame/ExecutionReports/HTMLReportsBackup/GodOfOlympus.html
