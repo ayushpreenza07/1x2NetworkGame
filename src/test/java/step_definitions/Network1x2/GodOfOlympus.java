@@ -12,7 +12,7 @@ import utilities.TestSetupUtil;
 
 import java.io.File;
 
-public class GodOfOlympus extends KeywordUtil {
+public class GodOfOlympus extends KeywordUtil{
 
     String NameOfGame;
     String gameFolderName = "God_Of_Olympus";
